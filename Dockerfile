@@ -7,7 +7,7 @@ COPY . /code/
 
 RUN set -eux; \
   export ARCH=$(uname -m); \
-  WASM_VERSION=$(go list -m all | grep github.com/CosmWasm/wasmvm | tail -n 1 | awk '{print $2}'); \
+  WASM_VERSION=$(go list -m all | grep github.com/CosmWasm/wasmvm/v2 | awk '{print $2}'); \
   if [ ! -z "${WASM_VERSION}" ]; then \
   mkdir -p /code/downloads; \
   wget -O /code/downloads/libwasmvm_muslc.a https://github.com/CosmWasm/wasmvm/releases/download/${WASM_VERSION}/libwasmvm_muslc.${ARCH}.a; \
