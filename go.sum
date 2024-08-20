@@ -312,6 +312,8 @@ github.com/OpenPeeDeeP/depguard v1.1.1 h1:TSUznLjvp/4IUP+OQ0t/4jF4QUyxIcVX8YnghZ
 github.com/OpenPeeDeeP/depguard v1.1.1/go.mod h1:JtAMzWkmFEzDPyAd+W0NHl1lvpQKTvT9jnRVsohBKpc=
 github.com/Shopify/sarama v1.19.0/go.mod h1:FVkBWblsNy7DGZRfXLU0O9RCGt5g3g3yEuWXgklEdEo=
 github.com/Shopify/toxiproxy v2.1.4+incompatible/go.mod h1:OXgGpZ6Cli1/URJOF1DMxUHB2q5Ap20/P/eIdh4G0pI=
+github.com/Stride-Labs/cosmos-sdk v0.50.8-with-sigverify-error-1 h1:Zz9RytbUlFB490t0oN7+81AiPxtwfKSgofLn9dyeBvc=
+github.com/Stride-Labs/cosmos-sdk v0.50.8-with-sigverify-error-1/go.mod h1:Zb+DgHtiByNwgj71IlJBXwOq6dLhtyAq3AgqpXm/jHo=
 github.com/Stride-Labs/tokenfactory v0.0.0-20240801182121-1a4d0ff100e4 h1:LYHjg3gqiO7KWxs9bSSk1zbKX/6m+6w3+ZULQkiJ3hs=
 github.com/Stride-Labs/tokenfactory v0.0.0-20240801182121-1a4d0ff100e4/go.mod h1:k63jwrJdiLzUNvc14eibXz+0YOn8c5XEvCrqxOpgfO0=
 github.com/VividCortex/gohistogram v1.0.0 h1:6+hBz+qvs0JOrrNhhmR7lFxo5sINxBCGXrdtl/UvroE=
@@ -545,8 +547,6 @@ github.com/cosmos/cosmos-db v1.0.2 h1:hwMjozuY1OlJs/uh6vddqnk9j7VamLv+0DBlbEXbAK
 github.com/cosmos/cosmos-db v1.0.2/go.mod h1:Z8IXcFJ9PqKK6BIsVOB3QXtkKoqUOp1vRvPT39kOXEA=
 github.com/cosmos/cosmos-proto v1.0.0-beta.5 h1:eNcayDLpip+zVLRLYafhzLvQlSmyab+RC5W7ZfmxJLA=
 github.com/cosmos/cosmos-proto v1.0.0-beta.5/go.mod h1:hQGLpiIUloJBMdQMMWb/4wRApmI9hjHH05nefC0Ojec=
-github.com/cosmos/cosmos-sdk v0.50.8 h1:2UJHssUaGHTl4/dFp8xyREKAnfiRU6VVfqtKG9n8w5g=
-github.com/cosmos/cosmos-sdk v0.50.8/go.mod h1:Zb+DgHtiByNwgj71IlJBXwOq6dLhtyAq3AgqpXm/jHo=
 github.com/cosmos/go-bip39 v1.0.0 h1:pcomnQdrdH22njcAatO0yWojsUnCO3y2tNoV1cb6hHY=
 github.com/cosmos/go-bip39 v1.0.0/go.mod h1:RNJv0H/pOIVgxw6KS7QeX2a0Uo0aKUlfhZ4xuwvCdJw=
 github.com/cosmos/gogogateway v1.2.0 h1:Ae/OivNhp8DqBi/sh2A8a1D0y638GpL3tkmLQAiKxTE=
